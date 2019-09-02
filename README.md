@@ -1,4 +1,4 @@
-﻿# Digital Interactive Entertainment Library
+# Digital Interactive Entertainment Library
 一个关于数字互动娱乐的中文数字图书馆
 
 ## 分区目录
@@ -13,7 +13,8 @@
 
 ### 游戏媒体测评
 
-### 游戏相关奖项
+### [游戏相关奖项](https://github.com/Thelordofdream/Digital-Interactive-Entertainment-Library/tree/master/游戏相关奖项)
+* [互动艺术与科学学会名人堂](https://github.com/Thelordofdream/Digital-Interactive-Entertainment-Library/blob/master/游戏相关奖项/互动艺术与科学学会名人堂.md)
 
 ### 游戏开发心得
 
