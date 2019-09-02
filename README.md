@@ -1,4 +1,4 @@
-﻿# Digital Interactive Entertainment Library Project
+﻿# Digital Interactive Entertainment Library
 一个关于数字互动娱乐的中文数字图书馆
 
 ## 分区目录
